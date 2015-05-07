@@ -1,5 +1,5 @@
 .topheader {
-	background-color: rgb(255,25,25);
+	background-color:white;
 	height: 40px;
 	width:100%;
 }
@@ -7,12 +7,14 @@
 li {
 	display:inline-block;
 	margin:15px;
+	font-size:19px;
+	color:rgb(213,213,213);
 }
 
 .logoone{
-	font-size:17px;
-
+	font-size:20px;
 }
+ 
  .pricingone {
 	color:black;
 }
@@ -22,9 +24,106 @@ li {
 	background-size:cover;
 	background-repeat:no-repeat;
 	height:300px;
-
+	padding-top:100px;
+	box-sizing:border-box;
+	margin-top:10px;
+	background-size: auto auto;
 }
+
 .simplepricing{
-
+	text-align:center;
+	font-size:50px;
+	font-style:bold;
+	color:white;
+}
+.trybefore{
+	text-align:center;
+	font-size:50px;
+	font-style:bold;
+	color:white;
+}
+.biggreen{
+	background-color:rgb(79,122,64);	
+	height:267px;
+	margin-top:40px;
+	margin-left:10px;
+	margin-right:10px;
+	padding:50px;
+}
+.personal{
+	text-align:center;
+	color:white;
+	font-size:17px;
+}
+.fivedollar{
+	text-align:center;
+	font-size:160px;
+	color:white;
+	margin-bottom:20px;
+}
+.permonth{
+	text-align:center;
+	font-size:25px;
+	color:rgb(158,185,151);
+}
+.menubox{
+	height:40px;
+	background-color:rgb(245,245,245);
+	border:1px;
+	border-color:rgb(203,203,203);
+	margin-left:10px;
+	margin-right:10px;
+	text-align:center;
+	border-style:solid;
+	background-size:auto auto;
+}
+.chooseborder{
+	height:120px;
+	background-color:white;
+	margin-left:10px;
+	margin-right:10px;
+	border:1px;
+	border-style:solid;
+	border-color:rgb(203,203,203);
+	padding-top:40px;
+}
+.choosebox{
+	text-align:center;
+	font-size:20px;
+	border-style:solid;
+	border-color:rgb(203,203,203);
+	border-radius:20px;
+	height:38px;
+	padding-top:12px;
+	background-size: auto auto;
+	margin:0 auto;
+	width:90px;
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
