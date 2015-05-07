@@ -1,0 +1,18 @@
+.topheader {
+  background-color: white;
+  height: 30px; }
+
+.logobox {
+  text-align: center;
+  font-size: 30px;
+  background-color: #172220; }
+
+.homebox {
+  text-align: center;
+  color: white; }
+
+.pricingbox {
+  text-align: center; }
+
+.contactbox {
+  text-align: center; }
