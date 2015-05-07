@@ -1,34 +1,30 @@
 .topheader {
-	background-color: rgb(255,255,255);
-	height: 30px;
+	background-color: rgb(255,25,25);
+	height: 40px;
+	width:100%;
 }
 
-.logobox{
-	text-align:center;
-	font-size:30px;
-	background-color: rgb(23,34,32);
-	
+li {
+	display:inline-block;
+	margin:15px;
+}
 
-
+.logoone{
+	font-size:17px;
 
 }
-.homebox{	
-	text-align:center;
-	color:white;
-
-
-
-
-
+ .pricingone {
+	color:black;
+}
+.bigpicbody{
+	background:url(https://github.com/TIY-Austin-Front-End-Engineering/responsive-site/blob/master/background.jpg?raw=true);
+	width:100%;
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:300px;
 
 }
-.pricingbox{
-	text-align:center
-
-
-}
-.contactbox{
-	text-align:center
+.simplepricing{
 
 
 }
