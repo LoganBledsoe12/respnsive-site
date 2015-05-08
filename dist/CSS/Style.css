@@ -94,3 +94,25 @@ li {
   background-size: auto auto;
   margin: 0 auto;
   width: 90px; }
+
+.bigblue {
+  background-color: #223b70;
+  height: 267px;
+  margin-top: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 50px; }
+
+.bigblack {
+  background-color: black;
+  height: 267px;
+  margin-top: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 50px; }
+
+.per_month {
+  color: #4b5a78; }
+
+.per_monthtwo {
+  color: gray; }
