@@ -175,6 +175,93 @@ span {
 	color:white;
 }
 
+@media (min-width:478px){
+	.bigpicbody{
+		height:439px;
+		padding-top:150px;
+	}
+}
+
+@media (min-width:767px){
+
+	.biggreen{
+		height:140px;
+		width:130px;
+}
+.personal{
+	letter-spacing:2px;
+}
+
+.plan-personal {
+	display:inline-block;
+
+}
+.plan-small {
+	display:inline-block;
+
+}
+.plan-enterprise {
+	display:inline-block;
+
+}
+.fivedollar{
+	font-size:90px;
+	margin:0 auto;
+
+}
+.permonth{
+	font-size:18px;
+}
+
+	.bigblue{
+		height:140px;
+		width:130px;
+	}
+	.bigblack{
+		height:140px;
+		width:130px;
+}
+.menubox{
+
+	width:228px;
+	height:25px;
+	padding-top:10px;
+}
+.chooseborder{
+	width:228px;
+	height:16px;
+	padding-bottom:30px;
+	padding-top:21px;
+
+
+}
+.choosebox{
+	font-size:16px;
+	font-weight:bold;
+	height:21px;
+	padding-top:1px;
+	padding-bottom:1px;
+}
+.outlinebottom{
+	height:250px;
+	display:inline-block;
+	width:366px;
+}
+.bottombody{
+	font-size:14px;
+}
+.trynowbox{
+	display:inline-block;
+
+}
+.unsplashbox{
+	display:inline-block;
+}
+.verybottomborder{
+	padding-left:70px;
+}
+
+}
 
 
 
