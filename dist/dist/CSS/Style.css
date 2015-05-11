@@ -164,7 +164,7 @@ span {
 @media (min-width: 767px) {
   .biggreen {
     height: 140px;
-    width: 130px; }
+    width: 152px; }
   .personal {
     letter-spacing: 2px; }
   .plan-personal {
@@ -185,7 +185,6 @@ span {
     height: 140px;
     width: 130px; }
   .menubox {
-    width: 228px;
     height: 25px;
     padding-top: 10px; }
   .chooseborder {
@@ -211,3 +210,63 @@ span {
     display: inline-block; }
   .verybottomborder {
     padding-left: 70px; } }
+
+@media (min-width: 979px) {
+  .bigmiddlebox {
+    width: 100%;
+    background-size: 100%; }
+  .plan-personal {
+    width: 33%;
+    display: inline-block; }
+  .plan-small {
+    width: 33%;
+    display: inline-block; }
+  .plan-enterprise {
+    width: 33%;
+    display: inline-block; }
+  .bigpicbody {
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    padding-top: 100px;
+    margin-top: 3px; }
+  .biggreen {
+    width: 152px; }
+  .bigblue {
+    width: 152px; }
+  .bigblack {
+    width: 152px; }
+  .menubox {
+    width: 250px; }
+  .chooseborder {
+    width: 250px; }
+  .yolobox {
+    width: 100%;
+    padding-left: 100px;
+    padding-right: 100px; }
+  .one {
+    display: inline-block; }
+  .two {
+    display: inline-block; }
+  .three {
+    display: block;
+    text-align: center; }
+  .four {
+    display: inline-block;
+    text-align: center; }
+  .bottomcontainer {
+    text-align: center;
+    display: inline-block;
+    width: 75%;
+    margin-left: 20%;
+    margin-right: 20%; }
+  .trynowbox {
+    text-align: center; }
+  .unsplashbox {
+    text-align: center; }
+  .verybottomborder {
+    text-align: center; }
+  .outlinebottom {
+    float: left; }
+  .bottomtitle {
+    text-align: left; } }
